@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@capacitor/app": "^5.0.7",
-    "@capacitor/camera": "^5.0.9",
+    "@capacitor/camera": "^6.0.0",
     "@peculiar/webcrypto": "^1.4.6",
     "js-sha3": "^0.9.3",
     "typedoc-plugin-missing-exports": "^2.2.0",
