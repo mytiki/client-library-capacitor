@@ -14,14 +14,14 @@
     "@capacitor/cli": "^5.7.1",
     "@capacitor/core": "^5.7.1",
     "@capacitor/ios": "^5.7.1",
-    "@ionic/pwa-elements": "^3.2.2",
+    "@ionic/pwa-elements": "^3.3.0",
     "@mytiki/publish-client-capacitor": "file:../",
-    "core-js": "^3.8.3",
+    "core-js": "^3.37.1",
     "vue": "^2.6.14"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.16",
-    "@babel/eslint-parser": "^7.12.16",
+    "@babel/core": "^7.24.7",
+    "@babel/eslint-parser": "^7.24.7",
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-eslint": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
